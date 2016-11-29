@@ -31,7 +31,7 @@ UDUNITS_LIB = .
 MMF_PATH = ./src
 
 # Path to COSP source tree
-COSP_PATH = /home/bhillman/cosp/cosp-R83
+COSP_PATH = /home/bhillman/codes/cosp/cosp-R83
 
 # Non-optional simulators. You should not need to change this
 RS_PATH = $(COSP_PATH)/quickbeam
